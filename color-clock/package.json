@@ -1,0 +1,14 @@
+{
+  "name": "my-first-npm",
+  "version": "1.0.0",
+  "description": "\"first npm\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "olesya",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
